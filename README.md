@@ -6,18 +6,17 @@ Polypanels wan design by [makeanything][1]
 
 ## Designs
 
+Check all my designs on [MyMiniFactory][2]
+
 ### Oled Display 
 <a href="polypanels-oled">
-<img src="polypanels-oled/img/p1.jpg" alt="polypanels-oled">
+<img src="polypanels-oled/img/p1.jpg" alt="polypanels-oled" width="50%">
 </a>
 
 ### Encoder Decoder KY-040 
 <a href="polypanels-encoder">
-<img src="polypanels-encoder/img/p1.jpg" alt="polypanels-encoder">
+<img src="polypanels-encoder/img/p1.jpg" alt="polypanels-encoder" width="50%">
 </a>
 
-## MyMiniFactory
-
-https://www.myminifactory.com/users/ricaun
-
 [1]: https://www.makeanything.design/polypanels
+[2]: https://www.myminifactory.com/users/ricaun
