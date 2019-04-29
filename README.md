@@ -10,12 +10,12 @@ Check all my designs on [MyMiniFactory][2]
 
 ### Oled Display 
 <a href="polypanels-oled">
-<img src="polypanels-oled/img/p1.jpg" alt="polypanels-oled" width="50%">
+<img src="polypanels-oled/img/p1.jpg" alt="polypanels-oled" width="25%"><img src="polypanels-oled/img/p0.jpg" alt="p0" width="25%">
 </a>
 
 ### Encoder Decoder KY-040 
 <a href="polypanels-encoder">
-<img src="polypanels-encoder/img/p1.jpg" alt="polypanels-encoder" width="50%">
+<img src="polypanels-encoder/img/p1.jpg" alt="polypanels-encoder" width="25%"><img src="polypanels-encoder/img/p0.jpg" alt="p0" width="25%"><img src="polypanels-encoder/img/p00.jpg" alt="p00" width="25%">
 </a>
 
 [1]: https://www.makeanything.design/polypanels
